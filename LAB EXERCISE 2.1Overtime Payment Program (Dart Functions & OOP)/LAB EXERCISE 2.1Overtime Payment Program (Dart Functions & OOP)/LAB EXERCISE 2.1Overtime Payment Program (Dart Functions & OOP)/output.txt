@@ -1,0 +1,2 @@
+PS C:\Users\USER\Lab3> dart main.dart
+Total Salary = $5070.0 USD
